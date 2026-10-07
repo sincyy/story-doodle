@@ -27,7 +27,7 @@ import ViewShot, { captureRef } from 'react-native-view-shot';
 // Yüklü değilse: npx expo install @expo/vector-icons
 import { MaterialCommunityIcons } from '@expo/vector-icons';
 
-const BACKEND_URL = 'http://192.168.1.2:8000';
+const BACKEND_URL = 'https://story-doodle-backend-xxxx.onrender.com';
 const BACKGROUND_MUSIC_URL = 'https://raw.githubusercontent.com/AsadNoul/sleep-tracker-sounds/main/lullaby.mp3';
 const PAGE_FLIP_SOUND_URL = 'https://actions.google.com/sounds/v1/household/page_turn.ogg';
 const STORAGE_KEY = '@story_doodle_saved_books_v7';
